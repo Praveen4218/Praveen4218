@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Praveen4218
 - 👀 I’m interested in development
 - 🌱 I’m currently learning Dot net technology
+- i need enter into embedded worlds....as being ECE Engineer.
 - 📫 How to reach me ...g.s.praveen4218@gmail.com
 
 <!---
